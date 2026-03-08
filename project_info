@@ -1,0 +1,13 @@
+Id: Unique identifier for each record.
+MSSubClass: Type of dwelling involved in the sale.
+MSZoning: General zoning classification of the property.
+LotArea: Lot size in square feet.
+LotConfig: Configuration of the lot.
+BldgType: Type of dwelling.
+OverallCond: Overall condition rating of the house.
+YearBuilt: Original construction year.
+YearRemodAdd: Remodel year (same as construction year if no remodeling).
+Exterior1st: Exterior covering of the house.
+BsmtFinSF2: Type 2 finished square feet of the basement.
+TotalBsmtSF: Total basement area in square feet.
+SalePrice: The target variable we aim to predict.
